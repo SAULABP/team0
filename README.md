@@ -1,5 +1,8 @@
 # 🚀 Hackatón 0 – CS2031
-
+ ## INTEGRANTES
+ * Ariel Mathias Fernando Choque Marcelo
+ * Ralfh Krishna Karl Sander Arana
+ * Saul Alejandro Baltazar Palomino 
 ¡Bienvenidos! 🎉
 Desde el curso **CS2031** les damos una cordial bienvenida al ciclo **2026-1**. El foco sigue siendo el mismo que siempre: colaboración bajo presión, conflictos de Git y trabajo en equipo real.
 
